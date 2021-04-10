@@ -1,0 +1,11 @@
+{
+  "name": "iif-image-site",
+  "version": "1.0.0",
+  "description": "For Minneapolis Institute of Art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Guimont",
+  "license": "ISC"
+}
