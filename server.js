@@ -21,4 +21,3 @@ app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/public/index.html'));
 });
 
-//https://3.api.artsmia.org/full/60728.jpg
