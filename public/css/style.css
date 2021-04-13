@@ -37,3 +37,30 @@ figcaption {
     padding: 3px;
     text-align: center;
 }
+
+/*------------------
+  Footer section
+---------------------*/
+
+.footer-section {
+    background: #212121;
+    padding: 19px 40px;
+}
+
+.copyright {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px 0;
+}
+
+.footer-social-links {
+    text-align: right;
+}
+
+.footer-social-links a {
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 40px;
+}
