@@ -14,9 +14,8 @@ used "https://fontawesome.com" to get some ready to use icons for the footer.
 Once I found the images I wanted to use, I used the element inspector to retrieve the proper
 Url.
 
-As I come from a QA background, I wanted to add a test in the using selenium
-so that way that framework is ready if we need any extra validation of 
-correct data.  
+As I come from a QA background, I wanted to add a selenium test.  That way if we need any automated testing
+in the future it is easy to implement. 
 
 To host the site locally, use the command "node server.js", then open a web browser to "localhost:3001".
 
