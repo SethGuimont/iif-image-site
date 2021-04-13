@@ -9,8 +9,7 @@ use node.js with the express package installed to quick set up a local server.
 
 I did not take a long amount of time styling the site, but I did want to use some general
 Responsive features.  I used a bootstrap file from a "themewagon.com" template called photographer and
-used "https://fontawesome.com" to get some ready to use icons, which I only used for the linkedin icon in 
-the footer.  
+used "https://fontawesome.com" to get some ready to use icons for the footer.
 
 Once I found the images I wanted to use, I used the element inspector to retrieve the proper
 Url.
